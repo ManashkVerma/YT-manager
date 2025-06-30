@@ -1,0 +1,1 @@
+[{"name": "python", "duration": "50 min"}, {"name": "Javascript", "duration": "8hr"}, {"name": "numpy", "duration": "30 hr"}]
